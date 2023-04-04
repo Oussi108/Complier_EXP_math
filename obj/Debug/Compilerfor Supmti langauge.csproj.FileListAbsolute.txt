@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\bin\Debug\Compilerfor Supmti langauge.exe.config
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\bin\Debug\Compilerfor Supmti langauge.exe
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\bin\Debug\Compilerfor Supmti langauge.pdb
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\obj\Debug\Compilerfor Supmti langauge.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\obj\Debug\Compilerfor Supmti langauge.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\obj\Debug\Compilerfor Supmti langauge.exe
+C:\Users\acer\source\repos\Compilerfor Supmti langauge\Compilerfor Supmti langauge\obj\Debug\Compilerfor Supmti langauge.pdb
